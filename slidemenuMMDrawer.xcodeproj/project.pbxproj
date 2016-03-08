@@ -7,12 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		961EA2E11B9852FF0025187C /* dandrufficon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 961EA2E01B9852FF0025187C /* dandrufficon.jpg */; };
+		96458A261B9443B800CC2EC5 /* checkbox.png in Resources */ = {isa = PBXBuildFile; fileRef = 96458A251B9443B800CC2EC5 /* checkbox.png */; };
+		96458A2A1B97253F00CC2EC5 /* newViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96458A291B97253F00CC2EC5 /* newViewController.swift */; };
+		96458A2C1B97367C00CC2EC5 /* acne.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 96458A2B1B97367C00CC2EC5 /* acne.jpeg */; };
+		96458A301B973BAA00CC2EC5 /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = 96458A2F1B973BAA00CC2EC5 /* more.png */; };
+		96458A321B973CC700CC2EC5 /* acneicon.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 96458A311B973CC700CC2EC5 /* acneicon.jpeg */; };
+		96458A341B973EA400CC2EC5 /* hairlossicon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96458A331B973EA400CC2EC5 /* hairlossicon.jpg */; };
+		96458A361B973EF000CC2EC5 /* oilyskinicon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96458A351B973EF000CC2EC5 /* oilyskinicon.jpg */; };
+		96458A381B973F7300CC2EC5 /* dryskinicon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96458A371B973F7300CC2EC5 /* dryskinicon.jpg */; };
 		9649DA2D1B84A23200C5C2FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA2C1B84A23200C5C2FF /* AppDelegate.swift */; };
 		9649DA2F1B84A23200C5C2FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA2E1B84A23200C5C2FF /* ViewController.swift */; };
 		9649DA321B84A23200C5C2FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9649DA301B84A23200C5C2FF /* Main.storyboard */; };
 		9649DA341B84A23200C5C2FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9649DA331B84A23200C5C2FF /* Images.xcassets */; };
 		9649DA371B84A23200C5C2FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9649DA351B84A23200C5C2FF /* LaunchScreen.xib */; };
 		9649DA431B84A23200C5C2FF /* slidemenuMMDrawerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA421B84A23200C5C2FF /* slidemenuMMDrawerTests.swift */; };
+		9649DA4D1B84A2A900C5C2FF /* LeftSideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA4C1B84A2A900C5C2FF /* LeftSideViewController.swift */; };
+		9649DA4F1B84A2B700C5C2FF /* RightSideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA4E1B84A2B700C5C2FF /* RightSideViewController.swift */; };
+		9649DA5B1B84A31200C5C2FF /* MMDrawerBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA531B84A31200C5C2FF /* MMDrawerBarButtonItem.m */; };
+		9649DA5C1B84A31200C5C2FF /* MMDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA551B84A31200C5C2FF /* MMDrawerController.m */; };
+		9649DA5D1B84A31200C5C2FF /* MMDrawerVisualState.m in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA581B84A31200C5C2FF /* MMDrawerVisualState.m */; };
+		9649DA5E1B84A31200C5C2FF /* UIViewController+MMDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9649DA5A1B84A31200C5C2FF /* UIViewController+MMDrawerController.m */; };
+		9649DA601B84C59C00C5C2FF /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 9649DA5F1B84C59C00C5C2FF /* menu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +42,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		961EA2E01B9852FF0025187C /* dandrufficon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dandrufficon.jpg; sourceTree = "<group>"; };
+		96458A251B9443B800CC2EC5 /* checkbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkbox.png; sourceTree = "<group>"; };
+		96458A291B97253F00CC2EC5 /* newViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = newViewController.swift; sourceTree = "<group>"; };
+		96458A2B1B97367C00CC2EC5 /* acne.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = acne.jpeg; sourceTree = "<group>"; };
+		96458A2F1B973BAA00CC2EC5 /* more.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more.png; sourceTree = "<group>"; };
+		96458A311B973CC700CC2EC5 /* acneicon.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = acneicon.jpeg; sourceTree = "<group>"; };
+		96458A331B973EA400CC2EC5 /* hairlossicon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hairlossicon.jpg; sourceTree = "<group>"; };
+		96458A351B973EF000CC2EC5 /* oilyskinicon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oilyskinicon.jpg; sourceTree = "<group>"; };
+		96458A371B973F7300CC2EC5 /* dryskinicon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dryskinicon.jpg; sourceTree = "<group>"; };
 		9649DA271B84A23200C5C2FF /* slidemenuMMDrawer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = slidemenuMMDrawer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9649DA2B1B84A23200C5C2FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9649DA2C1B84A23200C5C2FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +61,19 @@
 		9649DA3C1B84A23200C5C2FF /* slidemenuMMDrawerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slidemenuMMDrawerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9649DA411B84A23200C5C2FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9649DA421B84A23200C5C2FF /* slidemenuMMDrawerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slidemenuMMDrawerTests.swift; sourceTree = "<group>"; };
+		9649DA4C1B84A2A900C5C2FF /* LeftSideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftSideViewController.swift; sourceTree = "<group>"; };
+		9649DA4E1B84A2B700C5C2FF /* RightSideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RightSideViewController.swift; sourceTree = "<group>"; };
+		9649DA511B84A31100C5C2FF /* slidemenuMMDrawer-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "slidemenuMMDrawer-Bridging-Header.h"; sourceTree = "<group>"; };
+		9649DA521B84A31200C5C2FF /* MMDrawerBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMDrawerBarButtonItem.h; sourceTree = "<group>"; };
+		9649DA531B84A31200C5C2FF /* MMDrawerBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMDrawerBarButtonItem.m; sourceTree = "<group>"; };
+		9649DA541B84A31200C5C2FF /* MMDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMDrawerController.h; sourceTree = "<group>"; };
+		9649DA551B84A31200C5C2FF /* MMDrawerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMDrawerController.m; sourceTree = "<group>"; };
+		9649DA561B84A31200C5C2FF /* MMDrawerController+Subclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MMDrawerController+Subclass.h"; sourceTree = "<group>"; };
+		9649DA571B84A31200C5C2FF /* MMDrawerVisualState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMDrawerVisualState.h; sourceTree = "<group>"; };
+		9649DA581B84A31200C5C2FF /* MMDrawerVisualState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMDrawerVisualState.m; sourceTree = "<group>"; };
+		9649DA591B84A31200C5C2FF /* UIViewController+MMDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MMDrawerController.h"; sourceTree = "<group>"; };
+		9649DA5A1B84A31200C5C2FF /* UIViewController+MMDrawerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+MMDrawerController.m"; sourceTree = "<group>"; };
+		9649DA5F1B84C59C00C5C2FF /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +115,11 @@
 		9649DA291B84A23200C5C2FF /* slidemenuMMDrawer */ = {
 			isa = PBXGroup;
 			children = (
+				9649DA501B84A2EC00C5C2FF /* mmdrawergroup */,
 				9649DA2C1B84A23200C5C2FF /* AppDelegate.swift */,
+				9649DA4E1B84A2B700C5C2FF /* RightSideViewController.swift */,
+				9649DA4C1B84A2A900C5C2FF /* LeftSideViewController.swift */,
+				96458A291B97253F00CC2EC5 /* newViewController.swift */,
 				9649DA2E1B84A23200C5C2FF /* ViewController.swift */,
 				9649DA301B84A23200C5C2FF /* Main.storyboard */,
 				9649DA331B84A23200C5C2FF /* Images.xcassets */,
@@ -90,6 +132,15 @@
 		9649DA2A1B84A23200C5C2FF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96458A311B973CC700CC2EC5 /* acneicon.jpeg */,
+				96458A331B973EA400CC2EC5 /* hairlossicon.jpg */,
+				961EA2E01B9852FF0025187C /* dandrufficon.jpg */,
+				96458A2B1B97367C00CC2EC5 /* acne.jpeg */,
+				96458A371B973F7300CC2EC5 /* dryskinicon.jpg */,
+				96458A2F1B973BAA00CC2EC5 /* more.png */,
+				96458A251B9443B800CC2EC5 /* checkbox.png */,
+				96458A351B973EF000CC2EC5 /* oilyskinicon.jpg */,
+				9649DA5F1B84C59C00C5C2FF /* menu.png */,
 				9649DA2B1B84A23200C5C2FF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +161,23 @@
 				9649DA411B84A23200C5C2FF /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9649DA501B84A2EC00C5C2FF /* mmdrawergroup */ = {
+			isa = PBXGroup;
+			children = (
+				9649DA521B84A31200C5C2FF /* MMDrawerBarButtonItem.h */,
+				9649DA531B84A31200C5C2FF /* MMDrawerBarButtonItem.m */,
+				9649DA541B84A31200C5C2FF /* MMDrawerController.h */,
+				9649DA551B84A31200C5C2FF /* MMDrawerController.m */,
+				9649DA561B84A31200C5C2FF /* MMDrawerController+Subclass.h */,
+				9649DA571B84A31200C5C2FF /* MMDrawerVisualState.h */,
+				9649DA581B84A31200C5C2FF /* MMDrawerVisualState.m */,
+				9649DA591B84A31200C5C2FF /* UIViewController+MMDrawerController.h */,
+				9649DA5A1B84A31200C5C2FF /* UIViewController+MMDrawerController.m */,
+				9649DA511B84A31100C5C2FF /* slidemenuMMDrawer-Bridging-Header.h */,
+			);
+			name = mmdrawergroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,6 +224,8 @@
 		9649DA1F1B84A23200C5C2FF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Adithya Bharadwaj";
 				TargetAttributes = {
@@ -192,9 +262,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9649DA601B84C59C00C5C2FF /* menu.png in Resources */,
+				96458A321B973CC700CC2EC5 /* acneicon.jpeg in Resources */,
+				96458A381B973F7300CC2EC5 /* dryskinicon.jpg in Resources */,
 				9649DA321B84A23200C5C2FF /* Main.storyboard in Resources */,
+				96458A2C1B97367C00CC2EC5 /* acne.jpeg in Resources */,
+				96458A261B9443B800CC2EC5 /* checkbox.png in Resources */,
+				961EA2E11B9852FF0025187C /* dandrufficon.jpg in Resources */,
 				9649DA371B84A23200C5C2FF /* LaunchScreen.xib in Resources */,
+				96458A361B973EF000CC2EC5 /* oilyskinicon.jpg in Resources */,
+				96458A301B973BAA00CC2EC5 /* more.png in Resources */,
 				9649DA341B84A23200C5C2FF /* Images.xcassets in Resources */,
+				96458A341B973EA400CC2EC5 /* hairlossicon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +292,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				9649DA2F1B84A23200C5C2FF /* ViewController.swift in Sources */,
+				9649DA4D1B84A2A900C5C2FF /* LeftSideViewController.swift in Sources */,
+				9649DA5B1B84A31200C5C2FF /* MMDrawerBarButtonItem.m in Sources */,
+				9649DA5E1B84A31200C5C2FF /* UIViewController+MMDrawerController.m in Sources */,
+				9649DA4F1B84A2B700C5C2FF /* RightSideViewController.swift in Sources */,
+				9649DA5C1B84A31200C5C2FF /* MMDrawerController.m in Sources */,
 				9649DA2D1B84A23200C5C2FF /* AppDelegate.swift in Sources */,
+				9649DA5D1B84A31200C5C2FF /* MMDrawerVisualState.m in Sources */,
+				96458A2A1B97253F00CC2EC5 /* newViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,9 +428,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = slidemenuMMDrawer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "slidemenuMMDrawer/slidemenuMMDrawer-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -352,9 +441,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = slidemenuMMDrawer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "slidemenuMMDrawer/slidemenuMMDrawer-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -411,6 +502,7 @@
 				9649DA481B84A23200C5C2FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9649DA491B84A23200C5C2FF /* Build configuration list for PBXNativeTarget "slidemenuMMDrawerTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +511,7 @@
 				9649DA4B1B84A23200C5C2FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
